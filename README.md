@@ -4,7 +4,7 @@ This project is a data analysis project focused on pizza sales data. The goal is
 
 It is done using Tableau, SQL and Python.
 
-The dataset you've described contains information related to pizza orders. It includes four tables in CSV format, and here's a brief overview of each of them:
+The dataset we have described contains information related to pizza orders. It includes four tables in CSV format, and here's a brief overview of each of them:
 
 
 
